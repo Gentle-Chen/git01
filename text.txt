@@ -1,2 +1,3 @@
-Hello£¡£¡£¡
-Hi£¡£¡£¡
+Hello
+Hi
+Bye
